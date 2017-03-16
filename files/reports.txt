@@ -1,0 +1,14 @@
+789456;Wimalsha;70.22222239176432;360;First Class Honours Degree
+12345;sithira;44.0;360;Third Class Honours Degree
+2015291;Sami;99.0;360;First Class Honours Degree
+2015275;Thilan;68.48888880411785;360;Upper Second Class Honours Degree
+778899;Dasul;66.0;360;Upper Second Class Honours Degree
+454545;Kasun;73.88888905843099;360;First Class Honours Degree
+2015275;Thilan;88.0;360;First Class Honours Degree
+252525;Imanshu;55.08888880411784;340;Lower Second Class Degree
+615;kanjg;44.0;360;Third Class Honours Degree
+222222;Mahela;77.0;360;B.eng 1st Class Honours Degree
+2015273;Dasun;73.88888854980469;340;B.eng Non Honours Degree
+729729;Harin;77.0;360;B.eng 1st Class Honours Degree
+2015273;Dasun;77.0;360;B.eng 1st Class Honours Degree
+5555;pavit;77.0;360;B.eng 1st Class Honours Degree
